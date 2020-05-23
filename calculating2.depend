@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1590255758 source:c:\users\79194\desktop\ \Коллегия\Инфа\calculator\calculating2\main.cpp
+	"calculating2_header.h"
+
+1590256398 c:\users\79194\desktop\ \Коллегия\Инфа\calculator\calculating2\calculating2_header.h
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<limits.h>
+
+1590256382 source:c:\users\79194\desktop\ \Коллегия\Инфа\calculator\calculating2\calculating2_source.cpp
+	"calculating2_header.h"
+
